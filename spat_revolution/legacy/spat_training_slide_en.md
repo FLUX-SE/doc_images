@@ -580,7 +580,7 @@ Some online help also appears here when the mouse moves over elements of the SPA
 * Format Transcoding
 * Panning Algorithms
 
-![inline](include/SpatRevolution_UserGuide_-076.jpg)
+![inline](https://media.githubusercontent.com/media/FLUX-SE/doc_images/main/SpatR/Setup/ModuleDragDrop.jpg)
 
 ^ 
 <br>
