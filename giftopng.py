@@ -1,6 +1,5 @@
 from PIL import Image, ImageDraw, ImageFont #dynamic import
 
-
 import os
 rootdir = './'
 extensions = '.gif'
